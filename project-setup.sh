@@ -25,5 +25,5 @@ function junit_setup() {
     done
     
     cd ../..
-    code .
+    # code .
 }
